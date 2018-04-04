@@ -25,7 +25,6 @@ include_directories(
   ${EIGEN3_INCLUDE_DIR}
 )
 
-# find all source and header files
 set(SOURCEFILES
   src/Anchor.cpp
   src/Cholesky.cpp
