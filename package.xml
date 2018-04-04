@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>isam</name>
+  <version>0.0.0</version>
+
+  <description>Incremental Smoothing and Mapping</description>
+
+  <maintainer email="yoshua@kth.se">Yoshua Nava</maintainer>
+
+  <license>LGPL</license>
+  <author email="kaess@cmu.edu">Michael Kaess</author>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+</package>
